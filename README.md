@@ -7,6 +7,7 @@ This is part of the Pytorch implementation of the [DNCN]. The complete code will
 **Usage**
 
 **Train and test**
+
 Training code on the DBP15k dataset 
  ~~~
 python main.py  --category zh_en  --save_path ./save/zh_en
